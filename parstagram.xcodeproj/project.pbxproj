@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10A719BF27275EC10053FFF8 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10A719BE27275EC10053FFF8 /* CommentCell.swift */; };
 		10DF04E12717808700BA2C75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DF04E02717808700BA2C75 /* AppDelegate.swift */; };
 		10DF04E32717808700BA2C75 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10DF04E22717808700BA2C75 /* SceneDelegate.swift */; };
 		10DF04E82717808700BA2C75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10DF04E62717808700BA2C75 /* Main.storyboard */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		04065BD1510CF8184532913A /* Pods_parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		10A719BE27275EC10053FFF8 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		10DF04DD2717808700BA2C75 /* parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10DF04E02717808700BA2C75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10DF04E22717808700BA2C75 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				10DF04E92717808B00BA2C75 /* Assets.xcassets */,
 				10DF04EB2717808B00BA2C75 /* LaunchScreen.storyboard */,
 				10DF04EE2717808B00BA2C75 /* Info.plist */,
+				10A719BE27275EC10053FFF8 /* CommentCell.swift */,
 			);
 			path = parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				10DF0513271DE0FD00BA2C75 /* FeedViewController.swift in Sources */,
 				10DF04E32717808700BA2C75 /* SceneDelegate.swift in Sources */,
 				10DF0517271DF30F00BA2C75 /* PostCell.swift in Sources */,
+				10A719BF27275EC10053FFF8 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
